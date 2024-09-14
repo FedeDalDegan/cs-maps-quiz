@@ -1,12 +1,182 @@
 [
     {
         "question": "¿Qué mapa es?",
-        "image": "../img/cs16/surf_ski_2.jpg",
+        "image": "../img/cssource/de_dust2.jpg",
         "answers": [
-            { "text": "surf_ski", "correct": false },
-            { "text": "surf_ski_2", "correct": true },
-            { "text": "surf_green", "correct": false },
-            { "text": "surf_simpsons_final", "correct": false }
+            { "text": "de_dust2", "correct": true },
+            { "text": "de_inferno", "correct": false },
+            { "text": "de_train", "correct": false },
+            { "text": "de_cbble", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cssource/cs_office.jpg",
+        "answers": [
+            { "text": "cs_office", "correct": true },
+            { "text": "cs_italy", "correct": false },
+            { "text": "cs_assault", "correct": false },
+            { "text": "cs_militia", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cssource/de_inferno.jpg",
+        "answers": [
+            { "text": "de_cbble", "correct": false },
+            { "text": "de_dust", "correct": false },
+            { "text": "de_inferno", "correct": true },
+            { "text": "de_aztec", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cssource/de_train.jpg",
+        "answers": [
+            { "text": "de_cbble", "correct": false },
+            { "text": "de_train", "correct": true },
+            { "text": "de_prodigy", "correct": false },
+            { "text": "de_nuke", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cssource/de_nuke.jpg",
+        "answers": [
+            { "text": "de_cbble", "correct": false },
+            { "text": "de_dust2", "correct": false },
+            { "text": "de_nuke", "correct": true },
+            { "text": "de_piranesi", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cssource/cs_assault.jpg",
+        "answers": [
+            { "text": "cs_office", "correct": false },
+            { "text": "cs_assault", "correct": true },
+            { "text": "cs_havana", "correct": false },
+            { "text": "cs_estate", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cssource/de_aztec.jpg",
+        "answers": [
+            { "text": "de_aztec", "correct": true },
+            { "text": "de_piranesi", "correct": false },
+            { "text": "de_cbble", "correct": false },
+            { "text": "de_dust2", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cssource/cs_italy.jpg",
+        "answers": [
+            { "text": "cs_estate", "correct": false },
+            { "text": "cs_italy", "correct": true },
+            { "text": "cs_office", "correct": false },
+            { "text": "cs_militia", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cssource/de_cbble.jpg",
+        "answers": [
+            { "text": "de_cbble", "correct": true },
+            { "text": "de_prodigy", "correct": false },
+            { "text": "de_nuke", "correct": false },
+            { "text": "de_tides", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cssource/de_piranesi.jpg",
+        "answers": [
+            { "text": "de_inferno", "correct": false },
+            { "text": "de_train", "correct": false },
+            { "text": "de_piranesi", "correct": true },
+            { "text": "de_dust", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cssource/de_tides.jpg",
+        "answers": [
+            { "text": "de_tides", "correct": true },
+            { "text": "de_dust2", "correct": false },
+            { "text": "de_cbble", "correct": false },
+            { "text": "de_train", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cssource/de_prodigy.jpg",
+        "answers": [
+            { "text": "de_cbble", "correct": false },
+            { "text": "de_aztec", "correct": false },
+            { "text": "de_prodigy", "correct": true },
+            { "text": "de_nuke", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cssource/de_port.jpg",
+        "answers": [
+            { "text": "de_tides", "correct": false },
+            { "text": "de_inferno", "correct": false },
+            { "text": "de_port", "correct": true },
+            { "text": "de_train", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cssource/de_dust.jpg",
+        "answers": [
+            { "text": "de_dust2", "correct": false },
+            { "text": "de_cbble", "correct": false },
+            { "text": "de_dust", "correct": true },
+            { "text": "de_aztec", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cssource/cs_militia.jpg",
+        "answers": [
+            { "text": "cs_office", "correct": false },
+            { "text": "cs_militia", "correct": true },
+            { "text": "cs_italy", "correct": false },
+            { "text": "cs_assault", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cssource/de_chateau.jpg",
+        "answers": [
+            { "text": "de_prodigy", "correct": false },
+            { "text": "de_chateau", "correct": true },
+            { "text": "de_piranesi", "correct": false },
+            { "text": "de_train", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cssource/de_compound.jpg",
+        "answers": [
+            { "text": "de_prodigy", "correct": false },
+            { "text": "de_cbble", "correct": false },
+            { "text": "de_compound", "correct": true },
+            { "text": "de_aztec", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cssource/de_cbble.jpg",
+        "answers": [
+            { "text": "de_cbble", "correct": true },
+            { "text": "de_prodigy", "correct": false },
+            { "text": "de_chateau", "correct": false },
+            { "text": "de_aztec", "correct": false }
         ]
     }
 ]
