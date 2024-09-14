@@ -1,0 +1,352 @@
+[
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/surf_ski_2.jpg",
+        "answers": [
+            { "text": "surf_ski", "correct": false },
+            { "text": "surf_ski_2", "correct": true },
+            { "text": "surf_green", "correct": false },
+            { "text": "surf_simpsons_final", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/de_aztec.webp",
+        "answers": [
+            { "text": "de_dust", "correct": false },
+            { "text": "de_cbble", "correct": false },
+            { "text": "de_aztec", "correct": true },
+            { "text": "de_nuke", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/fy_pool_day.jpg",
+        "answers": [
+            { "text": "fy_pool_day", "correct": true },
+            { "text": "fy_snow", "correct": false },
+            { "text": "he_dodgeball2", "correct": false },
+            { "text": "he_glass", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/cs_estate.webp",
+        "answers": [
+            { "text": "cs_assault", "correct": false },
+            { "text": "cs_estate", "correct": true },
+            { "text": "cs_mansion", "correct": false },
+            { "text": "cs_italy", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/aim_ak_colt.jpg",
+        "answers": [
+            { "text": "aim_ak_colt", "correct": true },
+            { "text": "aim_headshot", "correct": false },
+            { "text": "awp_garden", "correct": false },
+            { "text": "awp_india", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/de_train.webp",
+        "answers": [
+            { "text": "de_cbble", "correct": false },
+            { "text": "de_train", "correct": true },
+            { "text": "de_inferno", "correct": false },
+            { "text": "de_dust", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/awp_india.webp",
+        "answers": [
+            { "text": "awp_garden", "correct": false },
+            { "text": "aim_headshot", "correct": false },
+            { "text": "awp_india", "correct": true },
+            { "text": "aim_ak_colt", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/de_nuke.webp",
+        "answers": [
+            { "text": "de_inferno", "correct": false },
+            { "text": "de_cbble", "correct": false },
+            { "text": "de_train", "correct": false },
+            { "text": "de_nuke", "correct": true }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/surf_simpsons_final.jpg",
+        "answers": [
+            { "text": "surf_simpsons_final", "correct": true },
+            { "text": "surf_green", "correct": false },
+            { "text": "surf_warped", "correct": false },
+            { "text": "surf_ski", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/cs_italy.webp",
+        "answers": [
+            { "text": "cs_siege", "correct": false },
+            { "text": "cs_italy", "correct": true },
+            { "text": "cs_assault", "correct": false },
+            { "text": "cs_militia", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/he_snow.jpg",
+        "answers": [
+            { "text": "he_glass", "correct": false },
+            { "text": "he_dodgeball2", "correct": false },
+            { "text": "he_snow", "correct": true },
+            { "text": "fy_snow", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/de_cbble.webp",
+        "answers": [
+            { "text": "de_cbble", "correct": true },
+            { "text": "de_clan1_mill", "correct": false },
+            { "text": "de_cpl_mill", "correct": false },
+            { "text": "de_inferno", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/surf_green.jpg",
+        "answers": [
+            { "text": "surf_ski_2", "correct": false },
+            { "text": "surf_simpsons_final", "correct": false },
+            { "text": "surf_green", "correct": true },
+            { "text": "surf_warped", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/de_rats_1337_v2.jpg",
+        "answers": [
+            { "text": "de_rats", "correct": false },
+            { "text": "de_mirage", "correct": false },
+            { "text": "de_tuscan", "correct": false },
+            { "text": "de_rats_1337_v2", "correct": true }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/awp_garden.jpg",
+        "answers": [
+            { "text": "awp_garden", "correct": true },
+            { "text": "awp_india", "correct": false },
+            { "text": "aim_headshot", "correct": false },
+            { "text": "aim_ak_colt", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/de_inferno.jpg",
+        "answers": [
+            { "text": "de_mirage", "correct": false },
+            { "text": "de_cbble", "correct": false },
+            { "text": "de_train", "correct": false },
+            { "text": "de_inferno", "correct": true }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/cs_assault.jpg",
+        "answers": [
+            { "text": "cs_assault", "correct": true },
+            { "text": "cs_estate", "correct": false },
+            { "text": "cs_siege", "correct": false },
+            { "text": "cs_italy", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/de_clan1_mill.jpg",
+        "answers": [
+            { "text": "de_cpl_mill", "correct": false },
+            { "text": "de_mirage", "correct": false },
+            { "text": "de_dust2", "correct": false },
+            { "text": "de_clan1_mill", "correct": true }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/fy_snow.jpg",
+        "answers": [
+            { "text": "fy_pool_day", "correct": false },
+            { "text": "he_snow", "correct": false },
+            { "text": "fy_snow", "correct": true },
+            { "text": "he_glass", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/de_dust2.jpg",
+        "answers": [
+            { "text": "de_dust", "correct": false },
+            { "text": "de_mirage", "correct": false },
+            { "text": "de_dust2", "correct": true },
+            { "text": "de_train", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/he_dodgeball2.jpg",
+        "answers": [
+            { "text": "he_snow", "correct": false },
+            { "text": "he_glass", "correct": false },
+            { "text": "he_dodgeball2", "correct": true },
+            { "text": "fy_snow", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/minidust2.webp",
+        "answers": [
+            { "text": "de_dust", "correct": false },
+            { "text": "de_dust2", "correct": false },
+            { "text": "fy_snow", "correct": false },
+            { "text": "minidust2", "correct": true }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/$1000$.jpg",
+        "answers": [
+            { "text": "he_snow", "correct": false },
+            { "text": "$1000$", "correct": true },
+            { "text": "he_dodgeball2", "correct": false },
+            { "text": "fy_snow", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/cs_siege.webp",
+        "answers": [
+            { "text": "cs_siege", "correct": true },
+            { "text": "cs_assault", "correct": false },
+            { "text": "cs_havana", "correct": false },
+            { "text": "cs_office", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/surf_ski.jpg",
+        "answers": [
+            { "text": "surf_tuvieja", "correct": false },
+            { "text": "surf_egypt", "correct": false },
+            { "text": "surf_warped", "correct": false },
+            { "text": "surf_ski", "correct": true }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/surf_warped.jpg",
+        "answers": [
+            { "text": "surf_warped", "correct": true },
+            { "text": "surf_mario", "correct": false },
+            { "text": "surf_ski_2", "correct": false },
+            { "text": "surf_ninja", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/he_glass.jpg",
+        "answers": [
+            { "text": "he_snow", "correct": false },
+            { "text": "he_glass", "correct": true },
+            { "text": "he_dodgeball2", "correct": false },
+            { "text": "fy_snow", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/de_rats.webp",
+        "answers": [
+            { "text": "cs_siege", "correct": false },
+            { "text": "fy_iceworld2k", "correct": false },
+            { "text": "de_rats_1337_v2", "correct": false },
+            { "text": "de_rats", "correct": true }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/cs_mansion.jpg",
+        "answers": [
+            { "text": "cs_estate", "correct": false },
+            { "text": "cs_italy", "correct": false },
+            { "text": "cs_mansion", "correct": true },
+            { "text": "cs_tornado", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/de_tuscan.jpg",
+        "answers": [
+            { "text": "de_tuscan", "correct": true },
+            { "text": "de_dust2", "correct": false },
+            { "text": "de_mirage", "correct": false },
+            { "text": "de_inferno", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/as_oilrig.jpg",
+        "answers": [
+            { "text": "as_tundra", "correct": false },
+            { "text": "as_riverside", "correct": false },
+            { "text": "as_courthouse", "correct": false },
+            { "text": "as_oilrig", "correct": true }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/cs_havana.jpg",
+        "answers": [
+            { "text": "cs_havana", "correct": true },
+            { "text": "cs_militia", "correct": false },
+            { "text": "cs_italy", "correct": false },
+            { "text": "cs_urban", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/vip_truck.jpg",
+        "answers": [
+            { "text": "vip_escort", "correct": false },
+            { "text": "vip_town", "correct": false },
+            { "text": "vip_truck", "correct": true },
+            { "text": "vip_park", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/cs_office.jpg",
+        "answers": [
+            { "text": "cs_havana", "correct": false },
+            { "text": "cs_office", "correct": true },
+            { "text": "cs_italy", "correct": false },
+            { "text": "cs_urban", "correct": false }
+        ]
+    },
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/de_kabul.jpg",
+        "answers": [
+            { "text": "de_mirage", "correct": false },
+            { "text": "de_nuke", "correct": false },
+            { "text": "de_rats", "correct": false },
+            { "text": "de_kabul", "correct": true }
+        ]
+    }
+]

@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background: #2f3135;
+}
+
+/* Index */
+header h1{
+    text-align: center;
+    font-size: 40px;
+    padding: 2%;
+    color: #0f77d8;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.index--img__container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 75px;
+}
+
+.index--img__select img{
+    max-width: 1000px;
+    border-radius: 10px;
+    transition: .2s;
+}
+
+.index--img__select img:hover{
+    transform: scale(1.02);
+    transition: .2s;
+}
+
+/* Cs 1.6 quizz */
+.app{
+    background: #fff;
+    width: 80%;
+    max-width: 700px;
+    margin: 50px auto 0;
+    border-radius: 10px;
+    padding: 25px;
+}
+
+.app h1{
+    font-size: 25px;
+    color: #001e4d;
+    font-weight: 600;
+    border-bottom: 1px solid #333;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.quiz{
+    padding: 20px 0;
+
+}
+
+.quiz h2{
+    font-size: 18px;
+    color: #001e4d;
+    font-weight: 600;
+}
+
+/* Boton "inicio" */
+.btn-inicio{
+    display: flex;
+    margin: 0 auto;
+    margin-top: 15px;
+    background-color: #2c4792; /* Color de fondo */
+    color: rgb(255, 255, 255); /* Color del texto */
+    padding: 10px 20px; /* Relleno del botón */
+    border: 1px solid black; /* Sin borde */
+    border-radius: 5px; /* Bordes redondeados */
+    cursor: pointer; /* Cambia el cursor al pasar por encima */
+    font-size: 16px; /* Tamaño de fuente */
+    text-decoration: none;
+}
+
+/* Botones de opciones a las preguntas */
+.btn{
+    background: #fff;
+    color: #222;
+    font-weight: 500;
+    width: 100%;
+    border: 1px solid #222;
+    padding: 10px;
+    margin: 10px 0;
+    text-align: left;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.btn:hover:not([disabled]){
+    background: #222;
+    color: #fff;
+}
+
+.btn:disabled{
+    cursor: no-drop;
+}
+
+#next-btn{
+    background: #001e4d;
+    color: #fff;
+    font-weight: 500;
+    width: 150px;
+    border: 0;
+    padding: 10px;
+    margin: 20px auto 0;
+    border-radius: 4px;
+    cursor: pointer;
+    display: none;
+}
+
+.correct{
+    background: #9aeabc;
+}
+
+.incorrect{
+    background: #ff9393;
+}
+
+/* Estilos de imagen */
+.question-image{ 
+    width: 100%;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+/* Footer */
+footer{
+    border-top: 1px solid rgb(255, 255, 255);
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+footer p a{
+    font-size: 20px;
+    text-align: center;
+    color: #0361b8;
+    transition: color 0.3s;
+    text-decoration: none;
+}
+
+footer p a:hover{
+    color: #0580f3;
+    transition: color 0.3s;
+}
+
+footer p{
+    margin-top: 2px;
+    text-align: center;
+    color: white;
+}

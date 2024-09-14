@@ -1,0 +1,12 @@
+[
+    {
+        "question": "¿Qué mapa es?",
+        "image": "../img/cs16/surf_ski_2.jpg",
+        "answers": [
+            { "text": "surf_ski", "correct": false },
+            { "text": "surf_ski_2", "correct": true },
+            { "text": "surf_green", "correct": false },
+            { "text": "surf_simpsons_final", "correct": false }
+        ]
+    }
+]
